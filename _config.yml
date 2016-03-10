@@ -1,5 +1,8 @@
+name: Simple Inked
+favicon: null
+layout_spectrum: 0.48212
+typography_spectrum: 0.74018
 title: Simple Inked
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.946288
-  brandStrength: 0.7168459
-  lightness: 0.1684588
   brandColors:
     - '#9e9f97'
     - '#020108'
     - '#753229'
     - '#4b4843'
     - '#a35c44'
+  brandStrength: 0.5625
+  lightness: 0.1684588
+  saturation: 0.946288
   rhythmicContrast: 0.3454258
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Simple Inked
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.74018
-layout_spectrum: 0.9157706
+purpose: []
