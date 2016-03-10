@@ -1,6 +1,6 @@
 name: Simple Inked
 favicon: null
-layout_spectrum: 0.65105
+layout_spectrum: 0.5704
 typography_spectrum: 0.84298
 title: Simple Inked
 collections:
@@ -34,7 +34,7 @@ color:
     - '#d71825'
     - '#afb0b2'
     - '#e4676f'
-  brandStrength: 0.3125
+  brandStrength: 0.25
   lightness: 0.875
   saturation: 0.5
   rhythmicContrast: 0.5
