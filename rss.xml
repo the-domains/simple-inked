@@ -4,8 +4,15 @@
         <description><![CDATA[Simple Inked]]></description>
         <link>https://thegrid.ai/simple-inked/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:35:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/simple-inked/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>9 ways Simple Inked ensures your business is a success Streamline your operations with our advanced features</p>]]></description>
+            <link>https://thegrid.ai/simple-inked/9-ways-simple-inked-ensures-your-business-is-a-success-strea/index.html</link>
+            <guid isPermaLink="false">f7a1588d-7a06-4ee4-a529-3ad224864b39</guid>
+            <pubDate>Thu, 10 Mar 2016 21:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.simpleinked.com/wp-content/uploads/2015/05/icon_reducenoshow.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5417fd8e-f77b-4030-bf17-7b47b52e6588.jpg">]]></description>
             <link>https://thegrid.ai/simple-inked/streamlined-tattoo-software-manage-your-studio-while-saving/index.html</link>
             <guid isPermaLink="false">aa62f4f5-94b8-4065-9a78-a1b16bf1281c</guid>
-            <pubDate>Thu, 10 Mar 2016 21:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ALL SERIOUS TATTOO STUDIO OWNERS NEED SIMPLE INKED FROM JUST $19/MONTH Start Now</p>]]></description>
-            <link>https://www.simpleinked.com/</link>
-            <guid isPermaLink="false">f942e5f0-9241-46bf-825d-1652393d25ac</guid>
             <pubDate>Thu, 10 Mar 2016 21:31:31 GMT</pubDate>
         </item>
     </channel>
