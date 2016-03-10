@@ -4,8 +4,15 @@
         <description><![CDATA[Simple Inked]]></description>
         <link>https://thegrid.ai/simple-inked/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:34:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/simple-inked/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9054086b-e14a-4ccd-91d0-fee5d544eb8e.jpg">]]></description>
+            <link>https://www.simpleinked.com/</link>
+            <guid isPermaLink="false">ceb88f2b-3189-4602-a1b9-ae8dde74f173</guid>
+            <pubDate>Thu, 10 Mar 2016 21:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.simpleinked.com/wp-content/uploads/2015/05/icon_marketing.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/simple-inked/incredible-support-were-all-about-the-people-and-our-team-p/index.html</link>
             <guid isPermaLink="false">6486fa97-6776-4ada-b8a8-5353601ff09e</guid>
             <pubDate>Thu, 10 Mar 2016 21:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streamlined Tattoo Software]]></title>
-            <description><![CDATA[<article><h1>Streamlined Tattoo Software</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce8d4d4f6baea44fd685e1e073c2fd75814facb8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/simple-inked/3a56cb6d-eaaa-480d-8c24-0d7bdb5100c3/index.html</link>
-            <guid isPermaLink="false">3a56cb6d-eaaa-480d-8c24-0d7bdb5100c3</guid>
-            <pubDate>Thu, 10 Mar 2016 07:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
